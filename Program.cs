@@ -19,6 +19,9 @@ void Main(){
             case "HELP":
                 HelpScreen();
                 break;
+            case "ADD DRIVERS":
+                AddDriversMenu();
+                break;
             default:
                 Console.WriteLine("ERROR: - Command Not Found.");
                 break;
@@ -43,7 +46,7 @@ void HelpScreen(){
     Console.WriteLine("STANDINGS [series] [year]    ;Lists the standings for the series and year.");
     Console.WriteLine("RACE [series] [year]         ;Runs The Next Race of the Series and Year.");
     Console.WriteLine("SIM SEASON [series] [year]   ;Simulates the entire season.");
-    Console.WriteLine("ADD DRIVERS [count]          ;Adds x number of drivers.");
+    Console.WriteLine("ADD DRIVERS                  ;Add drivers.");
     Console.WriteLine("ADD TRACK                    ;Add a track.");
     Console.WriteLine("ADD EVENT                    ;Add an event.");
     Console.WriteLine("ADD SERIES                   ;Add a series.");
@@ -52,6 +55,27 @@ void HelpScreen(){
     Console.WriteLine("HELP                         ;Displays this Help Screen.");
     ThinBar();
     Console.WriteLine("");
+}
+
+void AddDriversMenu(){
+    ThickBar();
+    Console.Write("Number of Drivers You Wish to Create: ");
+    string input;
+    int number = 0;
+    DriverAccessor da = new DriverAccessor();
+    try{
+        input = Console.ReadLine();
+        number = Int32.Parse(input);
+        for(int i=0; i<number; i++){
+            Console.Write("Driver Name: ");
+            input = Console.ReadLine();
+            da.AddDriver(input);
+            Console.WriteLine("Driver added successfully!");
+        }
+        ThinBar();
+    }catch(Exception e){
+        Console.WriteLine(e.Message);
+    }
 }
 
 Main();

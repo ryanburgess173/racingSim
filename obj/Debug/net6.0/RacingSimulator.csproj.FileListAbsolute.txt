@@ -13,3 +13,6 @@
 /Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/RacingSimulator.pdb
 /Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.genruntimeconfig.cache
 /Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/ref/RacingSimulator.dll
+/Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/Npgsql.dll
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.csproj.CopyComplete

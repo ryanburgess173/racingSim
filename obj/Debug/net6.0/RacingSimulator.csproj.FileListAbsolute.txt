@@ -1,0 +1,15 @@
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.csproj.AssemblyReference.cache
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.AssemblyInfoInputs.cache
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.AssemblyInfo.cs
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.csproj.CoreCompileInputs.cache
+/Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/RacingSimulator
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.dll
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/refint/RacingSimulator.dll
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.pdb
+/Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/RacingSimulator.deps.json
+/Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/RacingSimulator.runtimeconfig.json
+/Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/RacingSimulator.dll
+/Users/johnathanburgess/Projects/racingSim/bin/Debug/net6.0/RacingSimulator.pdb
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/RacingSimulator.genruntimeconfig.cache
+/Users/johnathanburgess/Projects/racingSim/obj/Debug/net6.0/ref/RacingSimulator.dll

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "A9/flyqED1aNmHqps6lmmrJyazHdM5KHp9zviOYW6FM4qDCGascghK0wKYZzII0yfmRgSoyUXnyq08nH9zY8Dg==",
+  "dgSpecHash": "/LW+Loti/UBTr9BQJ+dk6z5HWHn5cWuRu611OpjMWySyWnWZnM6yZPkszzcQsknKghc9wIu2y0/V/5kg+7oLsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryan Burgess\\Desktop\\racingSim\\RacingSimulator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/johnathanburgess/Projects/racingSim/RacingSimulator.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnathanburgess/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/johnathanburgess/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512",
+    "/Users/johnathanburgess/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

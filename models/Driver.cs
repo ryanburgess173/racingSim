@@ -1,11 +1,9 @@
 public class Driver{
+    public int DriverID {get;set;}
     public string Name {get; set;}
-    public int Age {get;set;}
-    public int CarID {get;set;}
     
-    public Driver(string name, int age, int CarID){
+    public Driver(int id, string name, int age){
+        this.DriverID = id;
         this.Name = name;
-        this.Age = age;
-        this.CarID = CarID;
     }
 }
